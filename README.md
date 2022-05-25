@@ -1,1 +1,1 @@
-# This is a Weather_App made in Andoid Studio
+# This is a Weather App made in Andoid Studio
